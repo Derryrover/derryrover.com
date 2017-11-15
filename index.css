@@ -1,0 +1,45 @@
+html, body {
+    margin: 0;
+    padding: 0;
+	height: 100%;
+    width: 100%;
+	background-color: black;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+	margin: 0;
+    padding: 0;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aligned {
+	/*max-width: 50%;*/
+}
+
+a {
+	font-family: arial;
+}
+
+a:link {
+	color: red;
+    text-decoration: none;
+}
+
+a:visited {
+	color: orange;
+    text-decoration: none;
+}
+
+a:hover {
+	color: purple;
+    text-decoration: underline;
+}
+
+a:active {
+	color: blue;
+    text-decoration: underline;
+}
