@@ -1,0 +1,37 @@
+
+body {
+  background-color: #1F1624;
+  z-index: 1;
+  }
+
+#all {
+  background-color: #1F1624;
+  position: relative;
+  z-index: 2;
+  width: 600px;
+  height: 800px;
+}
+
+#allthe {
+    background-color: #3D6B87;
+    position: absolute;
+    top: 90px;
+    left: 90px;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    font-size: 22px;
+    font-family: arial, helvetica;
+    color: #eff;
+  z-index: 3;
+   }
+
+H1   {
+  font-size: 32px;
+  color: #E0D9FD;
+  }
+  
+em {
+    font-size: 24px;
+  color: #99F7C8; 
+  }
